@@ -6,3 +6,17 @@ export default function Home() {
   const value = useBalance();
   return <div className="font-bold">Merchant-App {`${value}`} </div>;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
